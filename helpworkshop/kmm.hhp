@@ -1,0 +1,12 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=kmm.chm
+Contents file=Table of Contents.hhc
+Display compile progress=Yes
+Index file=Index.hhk
+Language=0x100c Français (Suisse)
+Title=Kenshi Mod Manager
+
+
+[INFOTYPES]
+

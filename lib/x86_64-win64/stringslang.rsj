@@ -1,0 +1,12 @@
+{"version":1,"strings":[
+{"hash":236427012,"name":"stringslang.swapmods_string","sourcebytes":[69,120,99,104,97,110,103,101,32,109,111,100,115,32,110,111,116,32,105,109,112,108,101,109,101,110,116,101,100,32,121,101,116],"value":"Exchange mods not implemented yet"},
+{"hash":247657555,"name":"stringslang.missingdependencies_string","sourcebytes":[77,105,115,115,105,110,103,32,68,101,112,101,110,100,101,110,99,105,101,115],"value":"Missing Dependencies"},
+{"hash":224356355,"name":"stringslang.missingreferences_string","sourcebytes":[77,105,115,115,105,110,103,32,82,101,102,101,114,101,110,99,101,115],"value":"Missing References"},
+{"hash":181382522,"name":"stringslang.steamworshopnewerversion_string","sourcebytes":[83,116,101,97,109,32,87,111,114,107,115,104,111,112,32,104,97,115,32,97,110,32,110,101,119,101,114,32,118,101,114,115,105,111,110,58],"value":"Steam Workshop has an newer version:"},
+{"hash":5942141,"name":"stringslang.steam_string","sourcebytes":[83,116,101,97,109],"value":"Steam"},
+{"hash":123698738,"name":"stringslang.steam_user_string","sourcebytes":[83,116,101,97,109,32,45,32,85,115,101,114],"value":"Steam - User"},
+{"hash":379330,"name":"stringslang.user_string","sourcebytes":[85,115,101,114],"value":"User"},
+{"hash":67805207,"name":"stringslang.missing_string","sourcebytes":[77,105,115,115,105,110,103],"value":"Missing"},
+{"hash":237564803,"name":"stringslang.dependencies_string","sourcebytes":[68,101,112,101,110,100,101,110,99,105,101,115],"value":"Dependencies"},
+{"hash":210747907,"name":"stringslang.references_string","sourcebytes":[82,101,102,101,114,101,110,99,101,115],"value":"References"}
+]}

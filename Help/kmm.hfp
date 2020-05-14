@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CONFIG>
+  <Files>
+    <Count Value="0"/>
+  </Files>
+  <OtherFiles>
+    <Count Value="0"/>
+  </OtherFiles>
+  <Windows>
+    <Count Value="0"/>
+  </Windows>
+  <MergeFiles>
+    <Count Value="0"/>
+  </MergeFiles>
+  <Settings>
+    <IndexFile Value=""/>
+    <TOCFile Value=""/>
+    <MakeBinaryTOC Value="True"/>
+    <MakeBinaryIndex Value="False"/>
+    <AutoFollowLinks Value="False"/>
+    <MakeSearchable Value="False"/>
+    <DefaultPage Value=""/>
+    <Title Value=""/>
+    <OutputFileName Value=""/>
+    <DefaultFont Value=""/>
+    <DefaultWindow Value=""/>
+    <ScanHtmlContents Value="False"/>
+    <LocaleID Value="1033"/>
+  </Settings>
+</CONFIG>

@@ -1,0 +1,12 @@
+{"version":1,"strings":[
+{"hash":219443826,"name":"tfrmmain.caption","sourcebytes":[75,101,110,115,104,105,32,77,111,100,32,77,97,110,97,103,101,114],"value":"Kenshi Mod Manager"},
+{"hash":85744105,"name":"tfrmmain.actstartkenshi.caption","sourcebytes":[75,101,110,115,104,105],"value":"Kenshi"},
+{"hash":208857156,"name":"tfrmmain.actstartfcs.caption","sourcebytes":[70,111,114,103,111,116,116,101,110,32,67,111,110,115,116,114,117,99,116,105,111,110,32,83,101,116],"value":"Forgotten Construction Set"},
+{"hash":366789,"name":"tfrmmain.actsaveorder.caption","sourcebytes":[83,97,118,101],"value":"Save"},
+{"hash":93113492,"name":"tfrmmain.actrevertorder.caption","sourcebytes":[82,101,118,101,114,116],"value":"Revert"},
+{"hash":116154878,"name":"tfrmmain.actconfig.caption","sourcebytes":[67,111,110,102,105,103,117,114,97,116,105,111,110],"value":"Configuration"},
+{"hash":4691652,"name":"tfrmmain.actabout.caption","sourcebytes":[65,98,111,117,116],"value":"About"},
+{"hash":322608,"name":"tfrmmain.acthelp.caption","sourcebytes":[72,101,108,112],"value":"Help"},
+{"hash":38143811,"name":"tfrmmain.actsyncmod.caption","sourcebytes":[83,121,110,99,32,102,114,111,109,32,83,116,101,97,109,32,77,111,100,115],"value":"Sync from Steam Mods"},
+{"hash":96356821,"name":"tfrmmain.actremovemod.caption","sourcebytes":[82,101,109,111,118,101,32,85,115,101,114,32,77,111,100,32,70,105,108,101],"value":"Remove User Mod File"}
+]}

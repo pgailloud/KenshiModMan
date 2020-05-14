@@ -1,0 +1,25 @@
+program KMM;
+
+{$mode objfpc}{$H+}
+
+uses
+  {$IFDEF UNIX}
+  cthreads,
+  {$ENDIF}
+  Interfaces, // this includes the CT adLCL widgetset
+  Forms, umain_form, uconfig_form, uModReader, uStoreConfig, about_unit,
+  u_wizard, StringsLang, uInfoReader{$ifdef DEBUG}, lazlogger{$endif};
+
+{$R *.res}
+
+begin
+  RequireDerivedFormResource:=True;
+  Application.Scaled:=True;
+  Application.Initialize;
+  Application.CreateForm(TfrmMain, frmMain);
+  Application.CreateForm(TdlgConfig, dlgConfig);
+  Application.CreateForm(TdlgAbout, dlgAbout);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
+

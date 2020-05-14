@@ -1,0 +1,515 @@
+ ====== New Session 30.12.1899 00:46
+Mod Source:
+ - Index : 61
+ - Active index : 61
+ - Name : Reavers.mod
+ - Level : 0
+Mod Target:
+ - Index : 62
+ - Active Index : 62
+ - Name : MyKaizoAddon
+ - Precise
+ - Below
+ - Offset : 1
+ - Level : 0
+MoveMod
+Mod to Move:
+ - Name : Reavers.mod
+ - Actuel Index : 61
+ ====== New Session 30.12.1899 00:47
+ ====== New Session 30.12.1899 00:53
+Mod Source:
+ - Index : 59
+ - Active index : 59
+ - Name : CraftableShackles
+ - Level : 0
+Mod Target:
+ - Index : 62
+ - Active Index : 62
+ - Name : MyKaizoAddon
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod t ====== New Session 30.12.1899 00:55
+ ====== New Session 30.12.1899 00:55
+Mod Source:
+ - Index : 59
+ - Active index : 59
+ - Name : CraftableShackles
+ - Level : 0
+Mod Target:
+ - Index : 60
+ - Active Index : 60
+ - Name : Fix Relation(Healing)EN
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod to Move:
+ - Name : CraftableShackles
+ - Actuel Index : 59
+Active List Count : 63
+ ====== New Session 30.12.1899 00:57
+Mod Source:
+ - Index : 61
+ - Active index : 61
+ - Name : Reavers.mod
+ - Level : 0
+Mod Target:
+ - Index : 62
+ - Active Index : 62
+ - Name : MyKaizoAddon
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod to Move ====== New Session 30.12.1899 01:00
+Mod Source:
+ - Index : 60
+ - Active index : 60
+ - Name : Fix Relation(Healing)EN
+ - Level : 0
+Mod Target:
+ - Index : 62
+ - Active Index : 62
+ - Name : MyKaizoAddon
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod ====== New Session 30.12.1899 01:01
+Mod Source:
+ - Index : 60
+ - Active index : 60
+ - Name : Fix Relation(Healing)EN
+ - Level : 0
+Mod Target:
+ - Index : 63
+ - Active Index : 65002
+ - Name : Genesis
+ - Precise
+ - Above
+ - Offset : 0
+Mod Source:
+ - Index : 60
+ - Active index : 60
+ - Name : Fix Relation(Healing)EN
+ - Level : 0
+Mod Target:
+ - Index : 62
+ - Active Index : 62
+ - Name : MyKaizoAddon
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod to Move:
+ - Name : Fix Relation(Healing)EN ====== New Session 30.12.1899 01:04
+Mod Source:
+ - Index : 60
+ - Active index : 60
+ - Name : Fix Relation(Healing)EN
+ - Level : 0
+Mod Source:
+ - Index : 60
+ - Active index : 60
+ - Name : Fix Relation(Healing)EN
+ - Level : 0
+Mod Target:
+ - Index : 63
+ - Active Index : 65002
+ - Name : Genesis
+ - Precise
+ - Above
+ - Offset : 0
+Mod Source:
+ - Index : 60
+ - Active index : 60
+ - Name : Fix Relation(Healing)EN
+ - Level : 0
+Mod Target:
+ - Index : 62
+ - Active Index : 62
+ - Name : MyKaizoAddon
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod to Move:
+ - Name : Fix Relation(Healing)EN
+ - Actuel Index : 60
+Active List Count : 63
+ ====== New Session 30.12.1899 01:28
+Mod Source:
+ - Index : 19
+ - Active index : 19
+ - Name : Traders of the Black Hand
+ - Level : 0
+Mod Source:
+ - Index : 18
+ - Active index : 18
+ - Name : Technomancer Corporation
+ - Level : 0
+Mod Source:
+ - Index : 52
+ - Active index : 52
+ - Name : Kaizo
+ - Level : 0
+Mod Source:
+ - Index : 60
+ - Active index : 59
+ - Name : MyKaizoAddon
+ - Level : 0
+Mod Source:
+ - Index : 59
+ - Active index : 59
+ - Name : Reactive World
+ - Level : 0
+Mod Target:
+ - Index : 45
+ - Active Index : 45
+ - Name : Cracked Sabre
+ - Precise
+ - Above
+ - Offset : 0
+MoveMod
+Mod to Move:
+ - Name : Reactive World
+ - Actuel Index : 59
+Active List Count : 60
+ ====== New Session 30.12.1899 03:29
+ ====== New Session 30.12.1899 03:30
+ ====== New Session 30.12.1899 03:33
+Mod Source:
+ - Index : 49
+ - Active index : 49
+ - Name : Dangerous Hazards
+ - Level : 0
+Copie de K:\Jeux\Steam\steamapps\workshop\content\233860\1509740976 à K:\Jeux\Steam\steamapps\common\Kenshi\mods
+Mod Source:
+ - Index : 49
+ - Active index : 49
+ - Name : Dangerous Hazards
+ - Level : 0
+Mod Source:
+ - Index : 61
+ - Active index : 61
+ - Name : Traders of the Black Hand
+ - Level : 0
+Mod Target:
+ - Index : 56
+ - Active Index : 56
+ - Name : CraftableShackles
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod to Move:
+ - Name : Traders of the Black Hand
+ - Actuel Index : 61
+Active List Count : 63
+Mod Source:
+ - Index : 62
+ - Active index : 62
+ - Name : Technomancer Corporation
+ - Level : 0
+Mod Target:
+ - Index : 56
+ - Active Index : 56
+ - Name : CraftableShackles
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod to Move:
+ - Name : Technomancer Corporation
+ - Actuel Index : 62
+Active List Count : 63
+Mod Source:
+ - Index : 57
+ - Active index : 57
+ - Name : Technomancer Corporation
+ - Level : 0
+Copie de K:\Jeux\Steam\steamapps\workshop\content\233860\717900857 à K:\Jeux\Steam\steamapps\common\Kenshi\mods
+Mod Source:
+ - Index : 66
+ - Active index : 63
+ - Name : Traders of the Black Hand
+ - Level : 0
+Mod Target:
+ - Index : 55
+ - Active Index : 55
+ - Name : TameBeasties
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod to Move:
+ - Name : Traders of the Black Hand
+ - Actuel Index : 63
+Active List Count : 64
+Mod Source:
+ - Index : 63
+ - Active index : 63
+ - Name : Technomancer Corporation
+ - Level : 0
+Mod Target:
+ - Index : 56
+ - Active Index : 56
+ - Name : Traders of the Black Hand
+ - Precise
+ - Above
+ - Offset : 0
+MoveMod
+Mod to Move:
+ - Name : Technomancer Corporation
+ - Actuel Index : 63
+Active List Count : 64
+Mod Source:
+ - Index : 58
+ - Active index : 58
+ - Name : Earlier Hydrophonics
+ - Level : 0
+Mod Source:
+ - Index : 57
+ - Active index : 57
+ - Name : Traders of the Black Hand
+ - Level : 0
+Copie de K:\Jeux\Steam\steamapps\workshop\content\233860\712964622 à K:\Jeux\Steam\steamapps\common\Kenshi\mods
+Mod Source:
+ - Index : 56
+ - Active index : 56
+ - Name : Technomancer Corporation
+ - Level : 0
+Mod Source:
+ - Index : 78
+ - Active index : 64
+ - Name : MyTradersPatch
+ - Level : 0
+Mod Target:
+ - Index : 78
+ - Active Index : 64
+ - Name : MyTradersPatch
+ - Precise
+ - OnNode
+ - Offset : 0
+SwapMod
+Mod to Move:
+ - Name : MyTradersPatch
+ - Actuel Index : 64
+Mod Source:
+ - Index : 64
+ - Active index : 64
+ - Name : MyTradersPatch
+ - Level : 0
+Mod Target:
+ - Index : 57
+ - Active Index : 57
+ - Name : Traders of the Black Hand
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod to Move:
+ - Name : MyTradersPatch
+ - Actuel Index : 64
+Active List Count : 65
+Mod Source:
+ - Index : 62
+ - Active index : 62
+ - Name : Reavers.mod
+ - Level : 0
+Copie de K:\Jeux\Steam\steamapps\workshop\content\233860\1877682289 à K:\Jeux\Steam\steamapps\common\Kenshi\mods
+Mod Source:
+ - Index : 62
+ - Active index : 62
+ - Name : Reavers.mod
+ - Level : 0
+ ====== New Session 30.12.1899 19:45
+ ====== New Session 30.12.1899 19:56
+Mod Source:
+ - Index : 45
+ - Active index : 45
+ - Name : Reactive World
+ - Level : 0
+Copie de K:\Jeux\Steam\steamapps\workshop\content\233860\1358096888 à K:\Jeux\Steam\steamapps\common\Kenshi\mods
+Copie de K:\Jeux\Steam\steamapps\workshop\content\233860\1654980998 à K:\Jeux\Steam\steamapps\common\Kenshi\mods
+Copie de K:\Jeux\Steam\steamapps\workshop\content\233860\1654980998 à K:\Jeux\Steam\steamapps\common\Kenshi\mods
+ ====== New Session 30.12.1899 19:58
+Copie de K:\Jeux\Steam\steamapps\workshop\content\233860\1772722749 à K:\Jeux\Steam\steamapps\common\Kenshi\mods
+Mod Source:
+ - Index : 65
+ - Active index : 65
+ - Name : LivingWorld
+ - Level : 0
+Mod Source:
+ - Index : 65
+ - Active index : 65
+ - Name : LivingWorld
+ - Level : 0
+Mod Target:
+ - Index : 45
+ - Active Index : 45
+ - Name : Reactive World
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod to Move:
+ - Name : LivingWorld
+ - Actuel Index : 65
+Active List Count : 66
+Mod Source:
+ - Index : 45
+ - Active index : 45
+ - Name : Reactive World
+ - Level : 0
+Suppression de K:\Jeux\Steam\steamapps\common\Kenshi\mods\GenMod_AddAnims_comp
+Copie de K:\Jeux\Steam\steamapps\workshop\content\233860\1654980998 à K:\Jeux\Steam\steamapps\common\Kenshi\mods
+ ====== New Session 30.12.1899 05:04
+ ====== New Session 30.12.1899 21:43
+ ====== New Session 30.12.1899 22:43
+ ====== New Session 30.12.1899 22:45
+ ====== New Session 30.12.1899 23:06
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 23:25
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 23:29
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 23:51
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 23:52
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 23:58
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 23:59
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 00:02
+INI Settings: C:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\Debug
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 00:04
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 00:40
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 00:41
+Suppression de K:\Jeux\Steam\steamapps\common\Kenshi\mods\Small Changes
+ ====== New Session 30.12.1899 01:02
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 02:52
+Mod Source:
+ - Index : 63
+ - Active index : 63
+ - Name : Genesis
+ - Level : 0
+Mod Source:
+ - Index : 57
+ - Active index : 57
+ - Name : Fix Relation(Healing)EN
+ - Level : 0
+Mod Source:
+ - Index : 53
+ - Active index : 53
+ - Name : Age of Ashtron
+ - Level : 0
+Mod Source:
+ - Index : 44
+ - Active index : 44
+ - Name : Territory Map with Zone Name
+ - Level : 0
+Mod Target:
+ - Index : 40
+ - Active Index : 40
+ - Name : Faces+
+ - Precise
+ - OnNode
+ - Offset : 0
+SwapMod
+Mod to Move:
+ - Name : Territory Map with Zone Name
+ - Actuel Index : 44
+Mod Source:
+ - Index : 44
+ - Active index : 44
+ - Name : Faces+
+ - Level : 0
+Mod Target:
+ - Index : 40
+ - Active Index : 40
+ - Name : Territory Map with Zone Name
+ - Precise
+ - OnNode
+ - Offset : 0
+SwapMod
+Mod to Move:
+ - Name : Faces+
+ - Actuel Index : 44
+Mod Source:
+ - Index : 44
+ - Active index : 44
+ - Name : Territory Map with Zone Name
+ - Level : 0
+Mod Target:
+ - Index : 41
+ - Active Index : 41
+ - Name : Faces+AddOn2
+ - Precise
+ - Above
+ - Offset : 0
+MoveMod
+Mod to Move:
+ - Name : Territory Map with Zone Name
+ - Actuel Index : 44
+Active List Count : 64
+Mod Source:
+ - Index : 41
+ - Active index : 41
+ - Name : Territory Map with Zone Name
+ - Level : 0
+Mod Target:
+ - Index : 43
+ - Active Index : 43
+ - Name : Extended Camping
+ - Precise
+ - Below
+ - Offset : 1
+MoveMod
+Mod to Move:
+ - Name : Territory Map with Zone Name
+ - Actuel Index : 41
+Active List Count : 64
+Mod Source:
+ - Index : 44
+ - Active index : 44
+ - Name : Territory Map with Zone Name
+ - Level : 0
+Mod Target:
+ - Index : 41
+ - Active Index : 41
+ - Name : Faces+AddOn2
+ - Precise
+ - Above
+ - Offset : 0
+MoveMod
+Mod to Move:
+ - Name : Territory Map with Zone Name
+ - Actuel Index : 44
+Active List Count : 64
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+ ====== New Session 30.12.1899 04:45
+INI Settings: C:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\Debug
+ ====== New Session 30.12.1899 04:48
+INI Settings: C:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\Debug
+ ====== New Session 30.12.1899 04:57
+INI Settings: C:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\Debug
+INI Settings: C:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\Debug
+ ====== New Session 30.12.1899 05:01
+INI Settings: C:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\Debug
+INI Settings: K:\Jeux\Steam\steamapps\common\Kenshi
+INI Settings: K:\Jeux\Steam\steamapps\comon\Kenshi

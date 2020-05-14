@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="KMM.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="42" Y="14"/>
+        <UsageCount Value="336"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umain_form.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="627"/>
+        <CursorPos X="44" Y="637"/>
+        <UsageCount Value="336"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uconfig_form.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dlgConfig"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="62" Y="16"/>
+        <UsageCount Value="336"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umodreader.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uModReader"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="43"/>
+        <CursorPos X="28" Y="19"/>
+        <UsageCount Value="324"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ustoreconfig.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uStoreConfig"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="13" Y="41"/>
+        <UsageCount Value="323"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="about_unit.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dlgAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="35"/>
+        <CursorPos X="23" Y="52"/>
+        <UsageCount Value="210"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="u_wizard.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <UsageCount Value="203"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="stringslang.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="StringsLang"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="32" Y="16"/>
+        <UsageCount Value="223"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uinforeader.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uInfoReader"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="12"/>
+        <CursorPos X="25" Y="27"/>
+        <UsageCount Value="357"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umods.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="uMods"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="641"/>
+        <CursorPos X="39" Y="658"/>
+        <UsageCount Value="167"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\packages\rtl-generics\src\generics.collections.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="Generics.Collections"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1425"/>
+        <CursorPos X="78" Y="1449"/>
+        <UsageCount Value="94"/>
+      </Unit>
+      <Unit>
+        <Filename Value="folders_unit.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="21"/>
+        <CursorPos X="42" Y="43"/>
+        <UsageCount Value="120"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\BaseUtils\fileutil.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="FileUtil"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="186"/>
+        <CursorPos X="21" Y="201"/>
+        <UsageCount Value="106"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\sysstrh.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9"/>
+        <CursorPos X="4" Y="23"/>
+        <UsageCount Value="95"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\BaseUtils\fileutil.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="287"/>
+        <CursorPos X="17" Y="307"/>
+        <UsageCount Value="48"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\packages\winunits-base\src\shellapi.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="ShellApi"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1216"/>
+        <CursorPos X="26" Y="1230"/>
+        <UsageCount Value="48"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Help\source\index.html"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="24" Y="6"/>
+        <UsageCount Value="158"/>
+        <DefaultSyntaxHighlighter Value="HTML"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="umods.pas"/>
+        <Caret Line="435" Column="37" TopLine="418"/>
+      </Position>
+      <Position>
+        <Filename Value="umods.pas"/>
+        <Caret Line="371" TopLine="358"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="225" Column="62" TopLine="224"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="399" TopLine="381"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="217" Column="3" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uconfig_form.pas"/>
+        <Caret Line="29" Column="74" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="591" Column="3" TopLine="570"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="443" Column="146" TopLine="425"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="383" Column="69" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="278" Column="8" TopLine="256"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="92" Column="15" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="176" Column="28" TopLine="169"/>
+      </Position>
+      <Position>
+        <Filename Value="umods.pas"/>
+        <Caret Line="81" Column="13" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="189" Column="24" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="177" Column="22" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="188" Column="23" TopLine="175"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="209" Column="69" TopLine="187"/>
+      </Position>
+      <Position>
+        <Filename Value="folders_unit.pas"/>
+        <Caret Line="43" Column="42" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="umods.pas"/>
+        <Caret Line="332" Column="14" TopLine="322"/>
+      </Position>
+      <Position>
+        <Filename Value="umods.pas"/>
+        <Caret Line="514" Column="78" TopLine="507"/>
+      </Position>
+      <Position>
+        <Filename Value="umods.pas"/>
+        <Caret Line="332" Column="23" TopLine="376"/>
+      </Position>
+      <Position>
+        <Filename Value="umods.pas"/>
+        <Caret Line="523" TopLine="501"/>
+      </Position>
+      <Position>
+        <Filename Value="umods.pas"/>
+        <Caret Line="514" Column="78" TopLine="500"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="210" Column="69" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="umain_form.pas"/>
+        <Caret Line="106" Column="24" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="about_unit.pas"/>
+        <Caret Line="39" Column="9" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="about_unit.pas"/>
+        <Caret Line="46" Column="3" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="about_unit.pas"/>
+        <Caret Line="55" Column="92" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="about_unit.pas"/>
+        <Caret Line="52" Column="13" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="about_unit.pas"/>
+        <Caret Line="55" Column="90" TopLine="35"/>
+      </Position>
+    </JumpHistory>
+    <CustomSessionData Count="2">
+      <Item0 Name="HTML_Autor" Value="Pascal Gailloud"/>
+      <Item1 Name="HTML_Copyright"/>
+    </CustomSessionData>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+    <HistoryLists>
+      <List Name="CommandLineParameters" Count="1">
+        <Item1 Value="--debug-log=KMM.log"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
