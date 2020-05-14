@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\codetyphon\fpc\fpc64\bin\x86_64-win64\fpc.exe" Date="1344388928"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -WG -l -vewnhibq &quot;-FiC:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\lib\x86_64-win64&quot; -FuC:\codetyphon\typhon\lcl\units\x86_64-win64\win32 -FuC:\codetyphon\typhon\lcl\units\x86_64-win64 -FuC:\codetyphon\typhon\components\BaseUtils\lib\x86_64-win64 -FuC:\codetyphon\typhon\packager\units\x86_64-win64 &quot;-FuC:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\&quot; &quot;-FUC:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\lib\x86_64-win64\&quot; &quot;-FEC:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\&quot; &quot;-oC:\Users\Pascal Gailloud\Documents\Lazarus\KenshiModMan\KTester.exe&quot; -dLCL -dadLCL -dLCLwin32 KTester.ppr"/>
-</CONFIG>
